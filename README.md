@@ -118,4 +118,3 @@ after placing PDF files inside the `data/` folder.
 
 Khadija Nazir
 
-BS Computer Science
