@@ -117,4 +117,6 @@ after placing PDF files inside the `data/` folder.
 ## Author
 
 Khadija Nazir
+Gharniqa Nadeem
+Maham 
 
